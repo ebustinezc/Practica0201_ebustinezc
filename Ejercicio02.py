@@ -1,2 +1,3 @@
 #Escribir un programa que almacene la cadena ¡Hola Mundo! en una variable y luego muestre por pantalla el contenido de la variable.
-print(varible ´hola mundo´)
+HM='¡Hola mundo!'
+print(HM)
